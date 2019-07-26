@@ -9,3 +9,5 @@ Aprender a trabalhar com este tipo de ferramenta é tão importante quanto apren
 ### Assistir ao Vídeo de introdução
 
 [![Curso GIT e GITHUB](http://img.youtube.com/vi/FF1f4bKYhoo/0.jpg)](http://www.youtube.com/watch?v=FF1f4bKYhoo "Curso GIT e GITHUB - O que é GIT e GitHub ?")
+
+[_Embedyoutube_](http://embedyoutube.org/)
